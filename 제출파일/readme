@@ -1,9 +1,11 @@
 1. v3_lightgbm_submission.csv
 score = 0.2850088529
 count = 2159
+threshold = 0.35
 code = v3_lightgbm_submission.py
 
 2. submission 0.3.csv
 score = 0.282160197
 count = 2403
+threshold = 0.3
 code = gmu_1.ipynb
