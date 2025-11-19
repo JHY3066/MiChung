@@ -12,4 +12,5 @@ code = gmu_1.ipynb
 
 3. common_pairs_best_values_1620.csv 야호 야호 야호 ~!~!~!
 score = 0.3116818111
+count = 1620
 3개 파일이 value를 양수로 예측한 쌍 중에 공통되는 쌍들만 뽑고, value 값은 지금 점수 제일 높은 v3 파일값 그대로
