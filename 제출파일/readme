@@ -9,3 +9,7 @@ score = 0.282160197
 count = 2402
 threshold = 0.3
 code = gmu_1.ipynb
+
+3. common_pairs_best_values_1620.csv
+score = 0.3116818111
+3개 파일이 value를 양수로 예측한 쌍 중에 공통되는 쌍들만 뽑고, value 값은 지금 점수 제일 높은 v3 파일값 그대로
